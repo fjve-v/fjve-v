@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Francisco Vazquez] 👋 <img src="banner data analyst.jpg" align="right" width="150" style="border-radius: 50%;">
+# ¡Hola! Soy [Francisco Vazquez] 👋 <img src="banner data analyst.PNG" align="right" width="2000" style="border-radius: 50%;">
 
 ### Analista de Datos | Ex-Director General | Especialista en Insights de Negocio
 
