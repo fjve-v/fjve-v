@@ -12,7 +12,14 @@ Soy un **Analista de Datos** con una trayectoria sólida en **Alta Dirección e 
 * **Bases de Datos:** PostgreSQL (Consultas complejas, CTEs, Limpieza de datos)
 * **Visualización:** Tableau Desktop (Dashboards dinámicos), Google Sheets (KPIs avanzados)
 * **Metodología:** Análisis de Embudo, Retención por Cohortes, Método C-F-I (Contexto, Hallazgo, Insight)
+### 🛠️ Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### 🌟 Proyecto Destacado: Everpeak Retail Framework
 ---
 
 ### 📊 Proyectos Destacados (TripleTen Bootcamp)
